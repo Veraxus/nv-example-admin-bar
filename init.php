@@ -9,9 +9,9 @@ Author URI: http://nouveauframework.com/
 License: GPLv2 or later
 */
 
-NV_Admin_Bar_Tweaks::init();
+NV_Admin_Bar::init();
 
-class NV_Admin_Bar_Tweaks {
+class NV_Admin_Bar {
 
 
     public static function init() {
