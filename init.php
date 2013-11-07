@@ -2,6 +2,7 @@
 /*
 Plugin Name: NOUVEAU Admin Bar Tweaks
 Plugin URI: http://nouveauframework.com/plugins/
+Git URI: https://github.com/Veraxus/nv-example-admin-bar
 Description: Tweak the WordPress admin bar.
 Version: 0.1
 Author: Veraxus
