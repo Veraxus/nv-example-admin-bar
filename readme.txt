@@ -1,9 +1,11 @@
 === NOUVEAU Admin Bar Tweaks ===
-Contributors: veraxus
+Contributors: Veraxus
 Tags: admin, greeting, developer, nouveau
+Requires PHP: 5.3
 Requires at least: 3.6
-Tested up to: 3.8
-Stable tag: 0.1
+Tested up to: 4.2
+Stable tag: 0.2
+GitHub Plugin URI: veraxus/nv-example-admin-bar
 
 Tweak the WordPress admin bar.
 
